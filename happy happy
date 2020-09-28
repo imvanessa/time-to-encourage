@@ -21,6 +21,10 @@ if each_word == "tired":
 feelings_list.append("tired")
 encouragement_list.append("you are stronger than you think")
 counter += 1
+if each_word == "disappointed":
+feelings_list.append("disappointed")
+encouragement_list.append("tomorrow will be a better day")
+counter += 1
 if each_word == "high":
 feelings_list.append("high")
 encouragement_list.append("to calm down and chill")
